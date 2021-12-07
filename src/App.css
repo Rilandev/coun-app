@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+.counter-app {
+  display: inline-flex;
+  justify-items: center;
+  margin-left: 44%;
+  margin-right: 46.2%;
+  border-radius: 9px;
+  margin-top: 10%;
+  border: outset rgb(241, 133, 133);
+  border-right: none;
+}
+.decrement {
+  padding: 15px 15px;
+  border-width: 0ch;
+  background-color: white;
+  border-right: solid red;
+}
+.count {
+  padding: 15px 15px;
+  background-color: hsl(28, 83%, 84%);
+}
+.increment {
+  padding: 15px 15px;
+  border-width: 0ch;
+  border-left: solid rgb(212, 146, 146);
+  background-color: salmon;
+  border-radius: 3px;
+}
